@@ -1,0 +1,1 @@
+docker build -t stevecliff/imap-backup:001 .

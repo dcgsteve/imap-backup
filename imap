@@ -1,0 +1,3 @@
+# Example shown below
+
+docker run --rm -it -v /storage1/imap:/root/.imap-backup stevecliff/imap-backup:001 $@
